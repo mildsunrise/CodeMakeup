@@ -4,7 +4,7 @@ A collection of good-looking, wisely designed themes for the [CodeMirror editor]
 
  * Ambiance2 (work-in-progress)
  * Woodance (work-in-progress)
- * [Dabbletted](https://github.com/jmendeth/CodeMakeup-dabbletted) (work-in-progress)
+ * [Dabbit](https://github.com/jmendeth/CodeMakeup-dabbit) (work-in-progress)
 
 Every theme is on a submodule (separate repo).
 

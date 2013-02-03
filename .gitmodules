@@ -1,3 +1,3 @@
-[submodule "dabbletted"]
-	path = dabbletted
-	url = https://github.com/jmendeth/CodeMakeup-dabbletted.git
+[submodule "dabbit"]
+	path = dabbit
+	url = https://github.com/jmendeth/CodeMakeup-dabbit.git
