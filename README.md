@@ -2,9 +2,9 @@
 
 A collection of good-looking, wisely designed themes for the [CodeMirror editor](http://codemirror.net).
 
- * Ambiance2 (work-in-progress)
- * Woodance (work-in-progress)
- * [Dabbit](https://github.com/jmendeth/CodeMakeup-dabbit) (work-in-progress)
+ * Ambiance2 (not published, work-in-progress)
+ * Woodance (not published, work-in-progress)
+ * [Dabbit](https://github.com/jmendeth/CodeMakeup-dabbit) (usable, stable)
 
 Every theme is on a submodule (separate repo).
 
